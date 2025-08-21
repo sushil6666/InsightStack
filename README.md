@@ -1,5 +1,6 @@
 # InsightStack
 Where I will share all DBT related stuffs
+
 ✅ To work on your project:
 Clone this repository
 
